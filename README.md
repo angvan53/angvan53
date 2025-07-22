@@ -19,15 +19,32 @@
 
 
 #### **🌩️ Cloud & DevOps**  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-%230072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-%23EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![DevOps](https://img.shields.io/badge/DevOps-%230077B5.svg?style=for-the-badge&logo=devops&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<p align="center">
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+  </a>
+  <a href="https://azure.microsoft.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Azure-%230072C6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure">
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  </a>
+  <a href="https://kubernetes.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Kubernetes-%23326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
+  </a>
+  <a href="https://www.terraform.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
+  </a>
+  <a href="https://www.ansible.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Ansible-%23EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible">
+  </a>
+  <a href="https://azure.microsoft.com/en-us/solutions/devops/" target="_blank">
+    <img src="https://img.shields.io/badge/DevOps-%230077B5.svg?style=for-the-badge&logo=devops&logoColor=white" alt="DevOps">
+  </a>
+</p>
 
 # 🌟 AWS Solutions & Practical Guides
 
